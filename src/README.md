@@ -1,7 +1,9 @@
-# src
+# Hacktober- 2020 project
 
 A new Flutter project.
-
+## GIF of Project:
+![](
+ezgif.com-video-to-gif.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.

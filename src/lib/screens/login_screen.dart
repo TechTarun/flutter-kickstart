@@ -49,6 +49,18 @@ class _LoginScreenState extends State<LoginScreen> {
                 elevation: 2.0,
                 onPressed: () {},
               ),
+              FlatButton(
+                child: Text(
+                  'Already Registered',
+                  style: TextStyle(
+                      color: Colors.grey[100],
+                      fontWeight: FontWeight.w100,
+                      fontSize: 14.0),
+                ),
+                onPressed: () {
+                  Navigator.pushNamed(context, RegistrationScreen.id);
+                },
+              ),
             ],
           ),
         ),

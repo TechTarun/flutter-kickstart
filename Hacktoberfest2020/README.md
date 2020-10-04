@@ -1,6 +1,7 @@
-# src
+# Hacktoberfest20202
 
 A new Flutter project.
+## Gif for the project
 
 ## Getting Started
 

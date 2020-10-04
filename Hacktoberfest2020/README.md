@@ -2,6 +2,7 @@
 
 A new Flutter project.
 ## Gif for the project
+ ![] (hacktober20202.gif)
 
 ## Getting Started
 
